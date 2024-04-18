@@ -1,15 +1,19 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
-.StateExample {
+/* .flex-container {
+  margin: auto;
+  width: 90%;
+} */
+
+/* .StateExample {
   display: flex;
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  width: 50vw;
   height: 50vh;
   transition: all 0.1s ease-in;
 }
@@ -31,12 +35,12 @@
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
   background-color: #fff;
 }
-
-.StateExample button.selected {
+ .StateExample button.selected {
   outline: 5px solid #000;
   background-color: #fff;
 }
-
+*/
+/* 
 .counter {
   font-size: 2rem;
-}
+} */
